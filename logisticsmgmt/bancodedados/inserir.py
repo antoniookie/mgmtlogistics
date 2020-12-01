@@ -1,0 +1,3 @@
+
+def inserir():
+    comando = '''INSER'''
